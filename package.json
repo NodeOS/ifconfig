@@ -5,7 +5,7 @@
   "author": "Jacob Groundwater <groundwater@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "src-sockios": "netlovers/node-src-sockios",
+    "src-sockios": "NodeOS/sockios",
     "src-ifaddrs": "netlovers/node-src-ifaddrs",
     "src-errno": "netlovers/node-src-errno"
   },
